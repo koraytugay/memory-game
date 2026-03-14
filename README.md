@@ -1,3 +1,23 @@
+Running at: 
+
+Single prompt.
+
+```
+We will build a web application here. Simple index.html, script.js and 
+style.css 
+
+There will be divs that represents "playing cards". But our playing cards 
+can be square. There will be 20 cards. There will be 10 pairs. User is 
+presented a 4 x 5 grid, card backs towards the user. When a user clicks on a
+ card, apply an effect as if card is turned. Reveal its face. Use different 
+emojis on card faces. Use emojis like plane, animals, hats etc.. When first 
+card is revealed, user selects another face down card. If the cards show the
+ same shape, cards are removed from the table. There is a counter on the 
+page with every 2 card reveals, counter increments. Once user finds all 
+matching cards (in other words all cards are removed) you present in how 
+many tries the user finished the game. Apply a nice style.
+```
+
 # Memory Card Game
 
 A fun and interactive memory card matching game built with vanilla HTML, CSS, and JavaScript.
